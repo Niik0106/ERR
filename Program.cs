@@ -8,7 +8,8 @@
             int n = int.Parse(Console.ReadLine());
             int resultado = factorial_recursivo(n);
             Console.WriteLine("El factorial de {0} es {1}", n, resultado);
- 
+            Console.WriteLine("Holaaaaaaaaaaa");
+
         }
 
         public static int factorial_recursivo(int n)
